@@ -18,3 +18,24 @@ C:\Users\kevin_000\Source\Repos\KumIn_WPF\KumIn_WPF\obj\Debug\KumIn_WPF.Properti
 C:\Users\kevin_000\Source\Repos\KumIn_WPF\KumIn_WPF\obj\Debug\KumIn_WPF.csproj.GenerateResource.Cache
 C:\Users\kevin_000\Source\Repos\KumIn_WPF\KumIn_WPF\obj\Debug\KumIn_WPF.exe
 C:\Users\kevin_000\Source\Repos\KumIn_WPF\KumIn_WPF\obj\Debug\KumIn_WPF.pdb
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\bin\Debug\KumIn_WPF.exe.config
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\KumIn_WPF.exe
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\KumIn_WPF.pdb
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\bin\Debug\KumIn_WPF.exe
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\bin\Debug\KumIn_WPF.pdb
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\KumIn_WPF.csprojResolveAssemblyReference.cache
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\AddStudent.g.cs
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\DeleteStudent.g.cs
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\Primary.g.cs
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\App.g.cs
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\KumIn_WPF_MarkupCompile.cache
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\KumIn_WPF_MarkupCompile.lref
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\AddStudent.baml
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\DeleteStudent.baml
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\MainWindow.baml
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\Primary.baml
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\KumIn_WPF.g.resources
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\KumIn_WPF.Properties.Resources.resources
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\KumIn_WPF.csproj.GenerateResource.Cache
+C:\Users\srina\Documents\Visual Studio 2015\Projects\KumIn_WPF\KumIn_WPF\KumIn_WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs

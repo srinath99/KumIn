@@ -13,6 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Windows.Threading;
 using System.Data;
+using System.Globalization;
 
 namespace KumIn_WPF
 {
@@ -45,7 +46,9 @@ namespace KumIn_WPF
                 TimeSpan t = TimeSpan.FromMinutes((timeNow - inTime).Minutes);
                 int h = t.Hours;
                 int mm = t.Minutes;
-                row["Duration"] = t.ToString(@"h\:mm");                           
+                row["Duration"] = t.ToString(@"h\:mm");
+
+                dummyTable.RowChanged += dummyTable_RowChanged;                       
             }
             
         }
@@ -98,6 +101,9 @@ namespace KumIn_WPF
 
             dgdListing.ItemsSource = dummyTable.DefaultView;
             dummyTable.Rows.Add(dummyRow);
+
+            txtSignIn.Clear();
         }
+
     }
 }
