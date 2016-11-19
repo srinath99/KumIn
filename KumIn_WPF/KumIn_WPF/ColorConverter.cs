@@ -8,11 +8,25 @@ using System.Globalization;
 
 namespace KumIn_WPF
 {
-    public class ColorConverter : IValueConverter
+    public class YellowConverter : IValueConverter
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
         {
-            return TimeSpan.ParseExact(value.ToString(), "h:mm", CultureInfo.InvariantCulture).TotalMinutes > 30;
+            return TimeSpan.ParseExact(value.ToString(), "h:mm", CultureInfo.InvariantCulture).TotalMinutes > 20
+                && TimeSpan.ParseExact(value.ToString(), "h:mm", CultureInfo.InvariantCulture).TotalMinutes < 30;
+        }
+
+        public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            throw new Exception("Nope.");
+        }
+    }
+
+    public class RedConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            return TimeSpan.ParseExact(value.ToString(), "h:mm", CultureInfo.InvariantCulture).TotalMinutes >= 30;
         }
 
         public object ConvertBack(object value, Type targetType, object parameter, CultureInfo culture)

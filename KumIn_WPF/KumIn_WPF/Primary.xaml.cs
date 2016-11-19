@@ -46,9 +46,7 @@ namespace KumIn_WPF
                 TimeSpan t = TimeSpan.FromMinutes((timeNow - inTime).Minutes);
                 int h = t.Hours;
                 int mm = t.Minutes;
-                row["Duration"] = t.ToString(@"h\:mm");
-
-                dummyTable.RowChanged += dummyTable_RowChanged;                       
+                row["Duration"] = t.ToString(@"h\:mm");                       
             }
             
         }

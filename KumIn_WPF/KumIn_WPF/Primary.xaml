@@ -7,11 +7,15 @@
         mc:Ignorable="d"
         Title="Primary" Height="450" Width="1000">
     <Window.Resources>
-        <local:ColorConverter x:Key="conv" />
+        <local:YellowConverter x:Key="yconv" />
+        <local:RedConverter x:Key="rconv" />
         <Style TargetType="DataGridRow">
             <Style.Triggers>
-                <DataTrigger Binding="{Binding Duration, Converter={StaticResource Kumin_WPF.ColorConverter}, ConverterParameter=50}" Value="True">
+                <DataTrigger Binding="{Binding Duration, Converter={StaticResource rconv}, ConverterParameter=50}" Value="True">
                     <Setter Property="Background" Value="Red" />
+                </DataTrigger>
+                <DataTrigger Binding="{Binding Duration, Converter={StaticResource yconv}, ConverterParameter=50}" Value="True">
+                    <Setter Property="Background" Value="Yellow" />
                 </DataTrigger>
             </Style.Triggers>
         </Style>
